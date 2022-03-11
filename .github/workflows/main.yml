@@ -14,5 +14,3 @@ jobs:
         server: ftp.dijungles.com
         username: bawanehcoder@dijungles.com
         password: 1038138_asd
-        timeout_minutes : 1
-        max_attempts : 3
